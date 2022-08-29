@@ -461,3 +461,12 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+rm -rf fonts/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm -help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
