@@ -491,3 +491,12 @@ history -a
 echo Yay!
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+echo I finished the boilerplate
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+print I finished the boilerplate
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo I finished the boilerplate\!
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
