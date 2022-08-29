@@ -9,3 +9,6 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cd freeCodeCamp/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
